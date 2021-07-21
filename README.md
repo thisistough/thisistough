@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thisistough
+- 👀 I’m interested in Cryptocurrency & the future of Commerce.
+- 🌱 I’m currently re-learning Javascript.
+- 💞️ I’m to get a job at FTX.
+- Wish me luck.
